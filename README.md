@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Carvu94.Carvu94" />
+
 ### Hi there 👋
 
 <!--
