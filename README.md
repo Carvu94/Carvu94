@@ -3,6 +3,10 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Matej+Car!;" />
 </h1>
+<p align="center">Junior Full Stack Software Developer based in Dublin, Ireland</p>
+<h2 align="center">
+    Currently Learning React!
+</h2>
 
 <div align="center"> 
   <a href="mailto:cmatej08@gmail.com">
