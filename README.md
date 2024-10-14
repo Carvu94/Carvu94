@@ -20,6 +20,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,python,javascript,django,aws" />
+    <br>
+    <img src="https://www.codewars.com/users/Carvu94/badges/large" />
 </div>
 
 <br/>
